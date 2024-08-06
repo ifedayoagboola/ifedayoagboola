@@ -11,7 +11,7 @@ I'm a passionate and innovative Front-End Developer with a love for creating cap
 * 🚀  I'm currently working on [bitshub.africa](http://www.bitshub.africa)
 * 🧠  I'm learning Data structures and Algorithms
 * 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I'm your friendly neighborhood Spiderman!
+* ⚡  Ever need a web guy? I'm your friendly neighborhood Spiderman!
 
 ### Skills
 
