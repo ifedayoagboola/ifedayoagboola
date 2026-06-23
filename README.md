@@ -11,19 +11,19 @@ meets the device.
 
 ### Selected work
 
-**[Sellexa](https://sellexa.app)** — cultural commerce platform, live
+**[Sellexa](https://sellexa.app)** · cultural commerce platform, live
 A company I built end to end and run in production. Next.js, Express, Supabase, Stripe.
 
-**BikeMesh** — BLE bike tracker
+**BikeMesh** · BLE bike tracker
 Reflashed NXP QN9090 chips from the stock Proximity Profile to iBeacon broadcast, then
 built the React Native tracker on top. RSSI filtering, real signal noise, BLE on
 commercial silicon. Catalyst Co-Founders finalist, INVENT 2025 semi-finalist.
 
-**NHS fire-door safety dashboard** — iTouch
+**NHS fire-door safety dashboard** · iTouch
 Rewrote a broken hardware-software integration layer on my own so the safety data could
 be trusted again. Angular, plus 50+ LoRaWAN gateways assembled.
 
-**VR platforms at Meta** — via Concentrix
+**VR platforms at Meta** · via Concentrix
 Where the hard problems sit between web, API, and physical hardware.
 
 ### Speaking & writing
