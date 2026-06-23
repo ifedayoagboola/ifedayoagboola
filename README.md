@@ -3,8 +3,8 @@
 **Software engineer. I build the software that talks to hardware: BLE, Web Bluetooth, IoT.**
 
 Most JavaScript engineers stop at the browser. I work one layer down, where the browser
-meets the device. Angular and React in production, on commercial chips, on NHS-grade
-systems, and on Meta's VR platform.
+meets the device. Angular in production on NHS-grade systems, BLE on commercial chips,
+and VR platform work at Meta.
 
 📍 Belfast, UK · Founder & Principal Engineer, [Sellexa](https://sellexa.app)
 
@@ -25,12 +25,13 @@ systems, and on Meta's VR platform.
 
 ### Speaking & writing
 
-I write and speak about getting software to work with hardware.
+I break down technical topics across coding and hardware, in plain terms. 10,000+ reads
+on [dev.to/blackscripts](https://dev.to/blackscripts).
 
-- 🎤 **XtremeJS 2026** (10 Nov) — Web Bluetooth in the browser.
-- 🎤 **JS Belfast** — [talk](https://www.youtube.com/watch?v=iB_1VsRMcQA).
-- ✍️ Peter Cooper picked up my BLE-in-JavaScript writing for **React Status**. His note:
-  *"we don't get a lot of hardware stuff."* More at [dev.to/blackscripts](https://dev.to/blackscripts).
+- 🎤 **XtremeJS 2026**: Web Bluetooth in the browser.
+- 🎤 **JS Belfast**: [talk](https://www.youtube.com/watch?v=iB_1VsRMcQA).
+- ✍️ My hardware-side JavaScript writing was picked up by **React Status** (Peter Cooper,
+  JavaScript Weekly).
 
 ---
 
@@ -49,6 +50,10 @@ I write and speak about getting software to work with hardware.
 </p>
 
 ---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/ifedayo-agboola-05a093147/) · [dev.to/blackscripts](https://dev.to/blackscripts) · [Sellexa](https://sellexa.app)
 
 📫 Open to senior engineering roles, advisory, and speaking where software meets hardware.
 Reach me at **ifedayoagboola19@gmail.com**.
