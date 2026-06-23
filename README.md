@@ -3,25 +3,28 @@
 **Software engineer. I build the software that talks to hardware: BLE, Web Bluetooth, IoT.**
 
 Most JavaScript engineers stop at the browser. I work one layer down, where the browser
-meets the device. Angular in production on NHS-grade systems, BLE on commercial chips,
-and VR platform work at Meta.
+meets the device.
 
-📍 Belfast, UK · Founder & Principal Engineer, [Sellexa](https://sellexa.app)
+📍 Belfast, UK · Founder, [Sellexa](https://sellexa.app)
 
 ---
 
-### What I build
+### Selected work
 
-- **Hardware-side JavaScript.** I reflashed NXP QN9090 BLE chips from the stock Proximity
-  Profile to iBeacon broadcast, then built the React Native tracker on top (BikeMesh).
-  RSSI filtering, signal noise, real BLE on commercial silicon.
-- **Production Angular.** Sole-engineer rewrite of a failing hardware-software integration
-  layer that restored safety-data compliance across NHS sites. Also an Angular 16 → 18
-  migration and 50+ LoRaWAN gateways assembled (iTouch).
-- **Founder.** I built [Sellexa](https://sellexa.app) end to end, a UK-registered company:
-  Next.js, Express, Supabase, Stripe, from architecture to live checkout.
-- **VR platforms at Meta** (via Concentrix). The hard problems sit between web, API, and
-  physical hardware.
+**[Sellexa](https://sellexa.app)** — cultural commerce platform, live
+A company I built end to end and run in production. Next.js, Express, Supabase, Stripe.
+
+**BikeMesh** — BLE bike tracker
+Reflashed NXP QN9090 chips from the stock Proximity Profile to iBeacon broadcast, then
+built the React Native tracker on top. RSSI filtering, real signal noise, BLE on
+commercial silicon. Catalyst Co-Founders finalist, INVENT 2025 semi-finalist.
+
+**NHS fire-door safety dashboard** — iTouch
+Rewrote a broken hardware-software integration layer on my own so the safety data could
+be trusted again. Angular, plus 50+ LoRaWAN gateways assembled.
+
+**VR platforms at Meta** — via Concentrix
+Where the hard problems sit between web, API, and physical hardware.
 
 ### Speaking & writing
 
