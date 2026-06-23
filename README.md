@@ -1,53 +1,54 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ifedayo Agboola
-=======================================================================================================================================
+## Ifedayo Agboola
 
-Frontend Developer
-------------------
+**Software engineer. I build the software that talks to hardware: BLE, Web Bluetooth, IoT.**
 
-I'm a passionate and innovative Front-End Developer with a love for creating captivating user experiences. My journey in the tech world has been fueled by curiosity and a relentless pursuit of excellence. Here you'll find a collection of my projects that reflect my dedication to craftsmanship, creativity, and problem-solving.
+Most JavaScript engineers stop at the browser. I work one layer down, where the browser
+meets the device. Angular and React in production, on commercial chips, on NHS-grade
+systems, and on Meta's VR platform.
 
-* 🌍  I'm based in Belfast, northern Ireland
-* ✉️  You can contact me at [Ifedayoagboola19@gmail.com](mailto:Ifedayoagboola19@gmail.com)
-* 🚀  I'm currently working on [bitshub.africa](http://www.bitshub.africa)
-* 🧠  I'm learning Data structures and Algorithms
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  Ever need a web guy? I'm your friendly neighbourhood Spiderman!
+📍 Belfast, UK · Founder & Principal Engineer, [Sellexa](https://sellexa.app)
 
-### Skills
+---
 
+### What I build
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+- **Hardware-side JavaScript.** I reflashed NXP QN9090 BLE chips from the stock Proximity
+  Profile to iBeacon broadcast, then built the React Native tracker on top (BikeMesh).
+  RSSI filtering, signal noise, real BLE on commercial silicon.
+- **Production Angular.** Sole-engineer rewrite of a failing hardware-software integration
+  layer that restored safety-data compliance across NHS sites. Also an Angular 16 → 18
+  migration and 50+ LoRaWAN gateways assembled (iTouch).
+- **Founder.** I built [Sellexa](https://sellexa.app) end to end, a UK-registered company:
+  Next.js, Express, Supabase, Stripe, from architecture to live checkout.
+- **VR platforms at Meta** (via Concentrix). The hard problems sit between web, API, and
+  physical hardware.
+
+### Speaking & writing
+
+I write and speak about getting software to work with hardware.
+
+- 🎤 **XtremeJS 2026** (10 Nov) — Web Bluetooth in the browser.
+- 🎤 **JS Belfast** — [talk](https://www.youtube.com/watch?v=iB_1VsRMcQA).
+- ✍️ Peter Cooper picked up my BLE-in-JavaScript writing for **React Status**. His note:
+  *"we don't get a lot of hardware stuff."* More at [dev.to/blackscripts](https://dev.to/blackscripts).
+
+---
+
+### Working with
+
+`BLE` · `Web Bluetooth` · `IoT` · `LoRaWAN` · `MQTT`
+`TypeScript` · `JavaScript` · `Angular` · `React Native` · `Node.js` · `Next.js`
+
+---
+
+### Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ifedayoagboola&show_icons=true&hide_border=true&count_private=true&hide=contribs&theme=graywhite" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifedayoagboola&layout=compact&hide_border=true&langs_count=6&theme=graywhite" alt="Top languages" />
 </p>
 
+---
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ifedayoagboola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ifedayo-agboola-05a093147/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/ifedayoagboola"><img src="https://github-readme-stats.vercel.app/api?username=ifedayoagboola&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ifedayoagboola's GitHub stats" /></a>
-
-<a href="http://www.github.com/ifedayoagboola"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ifedayoagboola&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/ifedayoagboola"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ifedayoagboola&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ifedayoagboola" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifedayoagboola&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+📫 Open to senior engineering roles, advisory, and speaking where software meets hardware.
+Reach me at **ifedayoagboola19@gmail.com**.
